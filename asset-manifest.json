@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/taprobana-store-deploy/static/css/main.06dde416.chunk.css",
-    "main.js": "/taprobana-store-deploy/static/js/main.fe56e23d.chunk.js",
-    "main.js.map": "/taprobana-store-deploy/static/js/main.fe56e23d.chunk.js.map",
-    "runtime-main.js": "/taprobana-store-deploy/static/js/runtime-main.13bad580.js",
-    "runtime-main.js.map": "/taprobana-store-deploy/static/js/runtime-main.13bad580.js.map",
-    "static/js/2.84b6407d.chunk.js": "/taprobana-store-deploy/static/js/2.84b6407d.chunk.js",
-    "static/js/2.84b6407d.chunk.js.map": "/taprobana-store-deploy/static/js/2.84b6407d.chunk.js.map",
-    "index.html": "/taprobana-store-deploy/index.html",
-    "static/css/main.06dde416.chunk.css.map": "/taprobana-store-deploy/static/css/main.06dde416.chunk.css.map",
-    "static/js/2.84b6407d.chunk.js.LICENSE.txt": "/taprobana-store-deploy/static/js/2.84b6407d.chunk.js.LICENSE.txt",
-    "static/media/Appstore.d0c58399.png": "/taprobana-store-deploy/static/media/Appstore.d0c58399.png",
-    "static/media/Profile.697fdcd2.png": "/taprobana-store-deploy/static/media/Profile.697fdcd2.png",
-    "static/media/aboutUsCover.634ef983.png": "/taprobana-store-deploy/static/media/aboutUsCover.634ef983.png",
-    "static/media/contactUsCover.7202581b.png": "/taprobana-store-deploy/static/media/contactUsCover.7202581b.png",
-    "static/media/Home.css": "/taprobana-store-deploy/static/media/cover.e5940638.jpg",
-    "static/media/logo.65787333.png": "/taprobana-store-deploy/static/media/logo.65787333.png",
-    "static/media/playstore.82b48319.png": "/taprobana-store-deploy/static/media/playstore.82b48319.png"
+    "main.css": "/static/css/main.85e1e12e.chunk.css",
+    "main.js": "/static/js/main.0d5c163f.chunk.js",
+    "main.js.map": "/static/js/main.0d5c163f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.686f288e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.686f288e.js.map",
+    "static/js/2.d222bb4c.chunk.js": "/static/js/2.d222bb4c.chunk.js",
+    "static/js/2.d222bb4c.chunk.js.map": "/static/js/2.d222bb4c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.85e1e12e.chunk.css.map": "/static/css/main.85e1e12e.chunk.css.map",
+    "static/js/2.d222bb4c.chunk.js.LICENSE.txt": "/static/js/2.d222bb4c.chunk.js.LICENSE.txt",
+    "static/media/Appstore.d0c58399.png": "/static/media/Appstore.d0c58399.png",
+    "static/media/Profile.697fdcd2.png": "/static/media/Profile.697fdcd2.png",
+    "static/media/aboutUsCover.634ef983.png": "/static/media/aboutUsCover.634ef983.png",
+    "static/media/contactUsCover.7202581b.png": "/static/media/contactUsCover.7202581b.png",
+    "static/media/Home.css": "/static/media/cover.e5940638.jpg",
+    "static/media/logo.65787333.png": "/static/media/logo.65787333.png",
+    "static/media/playstore.82b48319.png": "/static/media/playstore.82b48319.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.13bad580.js",
-    "static/js/2.84b6407d.chunk.js",
-    "static/css/main.06dde416.chunk.css",
-    "static/js/main.fe56e23d.chunk.js"
+    "static/js/runtime-main.686f288e.js",
+    "static/js/2.d222bb4c.chunk.js",
+    "static/css/main.85e1e12e.chunk.css",
+    "static/js/main.0d5c163f.chunk.js"
   ]
 }
